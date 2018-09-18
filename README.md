@@ -14,7 +14,7 @@ need. For example, the guide differentiates application development and devops.
 
 # Programming
 
-- [Python 3.6+](https://www.python.org)
+- [Python 3.7+](https://www.python.org)
   - [Virtualenv](https://github.com/pypa/virtualenv)
   - [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)
 - [Ruby](https://www.ruby-lang.org/en/)
