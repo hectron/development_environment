@@ -23,3 +23,7 @@ need. For example, the guide differentiates application development and devops.
 - [Node](https://nodejs.org/en/)
   - [nvm](https://github.com/creationix/nvm)
 - [Typescript](https://www.typescriptlang.org)
+
+```bash
+# ENV['LOLJK']
+```
